@@ -9,13 +9,14 @@ Logging support
 🛠 Prerequisites
 Python 3.x
 requests library
-🔧 Installation
-bash
 
+##🔧 Installation
+
+```bash
 git clone https://github.com/yourusername/aurora-tracker.git
 cd aurora-tracker
 pip install requests
-
+```
 
 ##⚙️ Configuration
 Edit script constants:
