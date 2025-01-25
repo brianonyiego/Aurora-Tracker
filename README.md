@@ -4,12 +4,27 @@
 Automated Northern Lights visibility notification script using NOAA forecast data.
 
 ##🚀 Features
+
+
+
 -**Real-time aurora forecast tracking**
+
+
 -**Kp index monitoring**
+
+
 -**Daily scheduled notifications**
+
+
 -**Logging support**
+
+
 -**🛠 Prerequisites**
+
+
 -**Python 3.x**
+
+
 -**requests library**
 
 ##🔧 Installation
